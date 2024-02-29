@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on CTFs and web hacking mostly.
-- 🌱 I’m currently learning the ins and outs of CTFing/cybersecurity + every webdev stack I possibly can!
-- 👯 I’m looking to collaborate on anything related to CTFing or WebAppSec/Bug Bounties
-- 📫 How to reach me: my website/social media (listed in profile)
+- 🔭 I’m currently working on CTFs and web3 hacking mostly.
+- 🌱 I’m currently learning smart contract auditing & RE/Binex
+- 👯 I’m looking to collaborate on IMMUNEFI!
+- 📫 How to reach me: linktr.ee/0x0n1
 - 😄 Pronouns: he/him
 
