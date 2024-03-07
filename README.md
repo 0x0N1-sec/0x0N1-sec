@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning EVM opcode auditing
 - 👯 I’m looking to collaborate on code4rena & IMMUNEFI!
 - 📫 How to reach me: linktr.ee/0x0n1
-- 😄 Favorite Langs/Tech: Rust | Lisp | Emacs (yes, I made this just so I coudl name-drop Emacs...Doom Emacs to be precise)
+- 😄 Favorite Langs/Tech: Rust | Lisp | Emacs (yes, I made this just so I could name-drop Emacs...Doom Emacs to be precise)
 
