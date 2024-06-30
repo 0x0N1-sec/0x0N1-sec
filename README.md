@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web3Sec/WAPT
-- 🌱 I’m currently learning cybersecurity, solidity, vyper, foundry... list goes on really.
-- 👯 I’m looking to collaborate on code4rena/Sherlock & IMMUNEFI!!
+- 🔭 I’m currently working on Buildspace s5 nights&weekends + worldsinmyhead/Hound
+- 🌱 I’m currently learning computer vision, the Unreal engine, & pxel art
+- 👯 I’m looking to collaborate on anything cool in the AI/ML space
 - 📫 How to reach me: linktr.ee/0x0n1
 - 😄 Favorite Langs/Tech: Foxpro
 
