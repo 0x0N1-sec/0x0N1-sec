@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on: first principles + first companies
-- 🌱 I’m currently learning deep math, to build, design, and crafting one's method
+- 🌱 I’m currently learning deep math, to drive a company to success, to build
 - 📫 How to reach me: linktr.ee/0x0n1
 
