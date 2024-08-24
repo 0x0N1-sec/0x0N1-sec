@@ -5,7 +5,5 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: first principles + first companies (and web3 security!)
-- 🌱 I’m currently learning deep math, to drive a company to success, to build
-- 📫 How to reach me: linktr.ee/0x0n1
-
+- 🔭 I’m currently working on: first principles + first companies
+- 🌱 I’m currently learning deep math, to drive a company to success, web3 security
